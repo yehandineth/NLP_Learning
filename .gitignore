@@ -1,2 +1,3 @@
-experiments/*
-*/__pycache__
+**/experiments
+**/__pycache__
+**/pubmed-rct
