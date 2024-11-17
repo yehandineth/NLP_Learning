@@ -9,6 +9,8 @@ RECT = (12,7)
 
 BATCH_SIZE = 32
 
+TEST_SIZE = 0.2
+
 ################################# DERIVED ################################
 
 
@@ -32,7 +34,3 @@ EXPERIMENTS_DIR = MAIN_DIR.joinpath('experiments')
 CHECKPOINTS_DIR = MAIN_DIR.joinpath('checkpoints')
 
 ########################################################################
-
-
-DATA_NAME = 'intro'
-DATA_DIR = DATASET_DIR.joinpath(DATA_NAME) 
