@@ -11,6 +11,11 @@ BATCH_SIZE = 32
 
 TEST_SIZE = 0.2
 
+CLASS_NAMES = ['BACKGROUND', 'CONCLUSIONS', 'METHODS', 'OBJECTIVE', 'RESULTS']
+
+NUM_CLASSES = len(CLASS_NAMES)
+
+
 ################################# DERIVED ################################
 
 
