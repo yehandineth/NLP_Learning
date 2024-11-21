@@ -1,5 +1,5 @@
 from config.config import *
-from keras.api.callbacks import TensorBoard, ModelCheckpoint
+from tf_keras.callbacks import TensorBoard, ModelCheckpoint
 
 def create_tensorboard_callback(model_name, experiment_name=None, dir_name=EXPERIMENTS_DIR) -> TensorBoard:
     '''

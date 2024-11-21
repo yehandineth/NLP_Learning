@@ -1,3 +1,6 @@
 **/experiments
 **/__pycache__
 **/pubmed-rct
+*.index
+JSCReplication/cache.txt.data-00000-of-00001
+JSCReplication/model.png
