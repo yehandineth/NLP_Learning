@@ -5,3 +5,5 @@
 JSCReplication/cache.txt.data-00000-of-00001
 JSCReplication/model.png
 JSCReplication/metrics.csv
+JSCReplication/checkpoints/Final.weights.h5
+JSCReplication/saves/models/Model.h5
