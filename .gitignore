@@ -7,3 +7,7 @@ JSCReplication/model.png
 JSCReplication/metrics.csv
 JSCReplication/checkpoints/Final.weights.h5
 JSCReplication/saves/models/Model.h5
+/RCTabstractmodel/datasets/
+/RCTabstractmodel/cache/
+/RCTabstractmodel/serialization/
+/RCTabstractmodel/training/checkpoints/
