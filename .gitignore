@@ -12,3 +12,5 @@ JSCReplication/saves/models/Model.h5
 /RCTabstractmodel/serialization/
 /RCTabstractmodel/training/checkpoints/
 /RCTabstractmodel/training/training_data/
+/RCTabstractmodel/testing/confusion_matrix_testing.png
+/RCTabstractmodel/testing/classification_report_testing.csv
